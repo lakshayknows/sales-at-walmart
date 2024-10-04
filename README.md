@@ -50,8 +50,12 @@ The project involves building a Random Forest Regressor to predict weekly sales.
 4. Training the model and evaluating its performance using metrics such as R² and cross-validation scores.
 
 ## Results
-1. The model achieves a cross-validation score of 0.94 on the training data and 0.95 on the test splits.
-2. Detailed insights and visualizations are provided in the Jupyter notebook.
+1. Cross-validation R-squared scores: [0.95154174 0.95028379 0.95932361 0.95107528 0.95464539]
+2. Mean R-squared score: 0.9534
+3. Standard deviation of R-squared scores: 0.00332.
+4. R-squared score on training and test data: 0.9602243639508954
+
+Detailed insights and visualizations are provided in the Jupyter notebook.
    
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or enhancements, feel free to create a pull request.
