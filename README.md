@@ -57,7 +57,7 @@ The project involves building a Random Forest Regressor to predict weekly sales.
 Contributions are welcome! If you have suggestions for improvements or enhancements, feel free to create a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache License - see the LICENSE file for details.
 
 Acknowledgments
 Thanks to Kaggle for providing the dataset.
